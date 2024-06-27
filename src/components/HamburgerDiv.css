@@ -1,0 +1,11 @@
+.hamburger-div img {
+  width: 40%;
+  height: auto;
+}
+
+.hamburger-div {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
